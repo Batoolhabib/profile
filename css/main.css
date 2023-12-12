@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(255,253,208);	
+    border-style: solid;
+    border-color: black;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, 0.568);
+    display: flex;
+    border-bottom: 3px solid ; 
+    border-top:  3px solid ;
+    border-color: black;
+    width:93.5%;
+    padding: 1.5rem 2rem ;
+    position:fixed;
+}
+.navbar nav ul{
+    display: flex;
+    justify-content:space-center;
+    align-items:flex-start;
+  }
+  .navbar nav ul a{
+    color:black;
+    margin: 40px;
+   
+    
+    }
+h1.navbar{
+    text-align: center;
+    font-size: xx-large;
+}
+hr{
+    color: black;
+}
+
+.top{
+  text-align: center;
+    font-size:x-large;
+}
+.image{
+    border-style:none;
+}
+    
+    
+.name{
+    text-align:left;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.study{
+    text-align: right;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.experiance{
+    text-align: left;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.hobby{
+    text-align: left;
+    font-size:x-large ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.info{
+    text-align: left;
+    font-size: x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.contact{
+    text-align: left;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#footer {
+   text-align: right;
+}
